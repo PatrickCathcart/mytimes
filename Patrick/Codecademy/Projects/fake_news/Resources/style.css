@@ -1,0 +1,38 @@
+html, body{
+  font-family: Verdana;
+  font-size: 14px;
+  font-weight: bold;
+}
+
+.header{
+  display:inline-flex;
+  justify-content: space-between;
+  width:100vw;
+
+}
+.container {
+  display: inline-flex;
+
+}
+
+.nav li{
+  style:none;
+  display:inline-block;
+}
+
+.container p{
+  color: mediumaquamarine;
+}
+
+.nav{
+  display:flex;
+  padding-right: 40px;
+
+}
+.nav li{
+  padding:0px 10px 0px 10px;
+}
+
+a{
+  color:black;
+}
